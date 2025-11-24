@@ -1,0 +1,41 @@
+
+spine_chuansong_idle_shang.png
+size: 389,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gl
+  rotate: true
+  xy: 243, 27
+  size: 110, 81
+  orig: 110, 81
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: true
+  xy: 2, 27
+  size: 110, 239
+  orig: 110, 250
+  offset: 0, 2
+  index: -1
+lizi
+  rotate: false
+  xy: 203, 4
+  size: 21, 21
+  orig: 25, 25
+  offset: 2, 2
+  index: -1
+niudan2_g2
+  rotate: true
+  xy: 2, 2
+  size: 23, 199
+  orig: 125, 503
+  offset: 51, 152
+  index: -1
+xianhgh
+  rotate: false
+  xy: 326, 14
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1

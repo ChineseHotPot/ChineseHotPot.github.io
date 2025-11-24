@@ -1,0 +1,111 @@
+
+spine_box.png
+size: 633,633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: true
+  xy: 452, 3
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+caidai1
+  rotate: true
+  xy: 534, 5
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+caidai10
+  rotate: true
+  xy: 260, 30
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+caidai11
+  rotate: false
+  xy: 583, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+caidai2
+  rotate: false
+  xy: 219, 27
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+caidai3
+  rotate: false
+  xy: 232, 27
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+caidai4
+  rotate: false
+  xy: 245, 30
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+caidai5
+  rotate: false
+  xy: 583, 15
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+caidai9
+  rotate: false
+  xy: 562, 9
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 179
+  size: 492, 452
+  orig: 528, 484
+  offset: 18, 16
+  index: -1
+shang
+  rotate: false
+  xy: 219, 40
+  size: 231, 137
+  orig: 231, 137
+  offset: 0, 0
+  index: -1
+xia
+  rotate: false
+  xy: 2, 6
+  size: 215, 171
+  orig: 215, 171
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 452, 84
+  size: 120, 93
+  orig: 120, 93
+  offset: 0, 0
+  index: -1
+zhong
+  rotate: true
+  xy: 534, 29
+  size: 53, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: true
+  xy: 496, 519
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1

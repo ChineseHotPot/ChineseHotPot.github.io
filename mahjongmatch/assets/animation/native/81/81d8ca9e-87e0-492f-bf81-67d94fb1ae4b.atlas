@@ -1,0 +1,27 @@
+
+spine_chuansong_unlock.png
+size: 412,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguang2
+  rotate: false
+  xy: 2, 2
+  size: 325, 260
+  orig: 344, 342
+  offset: 9, 9
+  index: -1
+gl
+  rotate: true
+  xy: 329, 152
+  size: 110, 81
+  orig: 110, 81
+  offset: 0, 0
+  index: -1
+xianhgh
+  rotate: false
+  xy: 329, 27
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1

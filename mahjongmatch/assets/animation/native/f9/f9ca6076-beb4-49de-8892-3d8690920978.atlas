@@ -1,0 +1,13 @@
+
+spine_zhuanhuan_quan.png
+size: 50,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 2, 6
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1

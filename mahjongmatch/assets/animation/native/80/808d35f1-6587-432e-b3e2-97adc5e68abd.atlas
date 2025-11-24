@@ -1,0 +1,27 @@
+
+spine_huodejl.png
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Game_frame_hong
+  rotate: false
+  xy: 369, 798
+  size: 565, 136
+  orig: 565, 136
+  offset: 0, 0
+  index: -1
+images/xingguang2
+  rotate: true
+  xy: 2, 891
+  size: 43, 44
+  orig: 54, 55
+  offset: 5, 5
+  index: -1
+images/zi
+  rotate: false
+  xy: 48, 846
+  size: 319, 88
+  orig: 320, 89
+  offset: 0, 1
+  index: -1

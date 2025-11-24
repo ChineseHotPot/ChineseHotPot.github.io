@@ -1,0 +1,41 @@
+
+spine_zhuanhuan.png
+size: 144,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 85, 110
+  size: 26, 32
+  orig: 31, 39
+  offset: 2, 4
+  index: -1
+huang
+  rotate: false
+  xy: 2, 61
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 85, 94
+  size: 14, 14
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+tubiao
+  rotate: false
+  xy: 61, 8
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1

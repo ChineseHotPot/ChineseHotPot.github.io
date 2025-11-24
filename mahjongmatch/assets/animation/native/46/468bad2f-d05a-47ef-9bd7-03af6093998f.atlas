@@ -1,0 +1,139 @@
+
+spine_hua.png
+size: 488,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guanga
+  rotate: false
+  xy: 222, 2
+  size: 92, 92
+  orig: 104, 104
+  offset: 6, 6
+  index: -1
+hua1
+  rotate: false
+  xy: 2, 191
+  size: 139, 146
+  orig: 139, 146
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 316, 319
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 153, 397
+  size: 89, 183
+  orig: 89, 183
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: false
+  xy: 2, 339
+  size: 149, 147
+  orig: 149, 147
+  offset: 0, 0
+  index: -1
+pingzi
+  rotate: false
+  xy: 2, 28
+  size: 108, 161
+  orig: 111, 161
+  offset: 3, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 392, 188
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+yezi10
+  rotate: true
+  xy: 316, 62
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+yezi11
+  rotate: true
+  xy: 338, 395
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+yezi12
+  rotate: true
+  xy: 316, 8
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 301, 186
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 193, 96
+  size: 96, 113
+  orig: 97, 113
+  offset: 1, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 112, 60
+  size: 129, 79
+  orig: 129, 79
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: false
+  xy: 379, 122
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+yezi6
+  rotate: false
+  xy: 316, 264
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+yezi7
+  rotate: true
+  xy: 112, 2
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+yezi8
+  rotate: false
+  xy: 153, 295
+  size: 161, 100
+  orig: 161, 100
+  offset: 0, 0
+  index: -1
+yezi9
+  rotate: false
+  xy: 291, 128
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 143, 211
+  size: 156, 82
+  orig: 170, 94
+  offset: 7, 6
+  index: -1

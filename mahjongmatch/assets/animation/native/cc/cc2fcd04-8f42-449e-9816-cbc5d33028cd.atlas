@@ -1,0 +1,97 @@
+
+spine_qiandao.png
+size: 254,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang/geboyou
+  rotate: false
+  xy: 162, 69
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+huang/gebozuo
+  rotate: false
+  xy: 156, 29
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+huang/guang
+  rotate: true
+  xy: 93, 3
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+huang/meimaoyou
+  rotate: false
+  xy: 120, 3
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+huang/meimaozuo
+  rotate: false
+  xy: 156, 12
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+huang/shenti
+  rotate: false
+  xy: 2, 3
+  size: 89, 249
+  orig: 89, 249
+  offset: 0, 0
+  index: -1
+huang/shou_L
+  rotate: false
+  xy: 93, 73
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1
+huang/shou_r
+  rotate: false
+  xy: 93, 163
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+huang/shouyou
+  rotate: false
+  xy: 162, 109
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+huang/shouzou
+  rotate: false
+  xy: 208, 124
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+huang/yanjing
+  rotate: true
+  xy: 167, 163
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+huang/zuiba
+  rotate: true
+  xy: 204, 178
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+shouyou
+  rotate: false
+  xy: 93, 20
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+shuibo_b.png
+size: 93,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shuibo
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 66, 66
+  offset: 1, 1
+  index: -1
+images/shuidi
+  rotate: false
+  xy: 68, 22
+  size: 17, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+images/xx
+  rotate: true
+  xy: 68, 42
+  size: 24, 23
+  orig: 57, 57
+  offset: 16, 17
+  index: -1
